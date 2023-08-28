@@ -1,1 +1,2 @@
 # Privacy-Preserving-Scheme-using-Blockchain-basics
+This involves taking a text file dividing it into a specified number of blocks, encrypting content of each block using RSA algorithm and Decrypting it again, calculating hashes of each block. There is also added functionality to make an auditing request, which checks if the data is safe by picking any random block and checking and comparing their hashes.
